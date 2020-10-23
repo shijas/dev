@@ -1,6 +1,6 @@
 # dev
 
-shijas master branch
+master branch
 This is dev branch test
 Changed one line
 changed done in second branch
